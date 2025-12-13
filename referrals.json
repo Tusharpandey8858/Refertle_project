@@ -1,0 +1,16 @@
+[
+  {
+    "userId": "12345",
+    "source": "instagram_ad",
+    "campaignId": "spring_sale",
+    "timestamp": "2025-12-08T10:00:00Z",
+    "receivedAt": "2025-12-13T12:09:36.542Z"
+  },
+  {
+    "userId": "12346",
+    "source": "instagram_ad1",
+    "campaignId": "spring_sale1",
+    "timestamp": "2025-12-08T20:00:00Z",
+    "receivedAt": "2025-12-13T12:10:18.944Z"
+  }
+]
